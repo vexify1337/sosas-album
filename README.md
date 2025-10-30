@@ -3,6 +3,9 @@ sosas album is a fully-featured, ad-free music streaming platform where artists 
 Features:
 
 
+DOWNLOAD HERE: https://github.com/vexify1337/sosas-album/releases/tag/release
+
+
 🎶 Ad-Free Streaming: Enjoy music uninterrupted.
 
 
